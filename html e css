@@ -1,0 +1,65 @@
+<!DOCTYPEhtml >
+< html  lang =" pt-br " >
+< cabeça >
+    < meta  charset =" UTF-8 " > 
+    < meta  http-equiv =" Compatível com X-UA " content =" IE=edge " >
+    < meta  name =" viewport " content =" largura = largura do dispositivo, escala inicial = 1,0 " >
+    < link  rel =" ícone de atalho " href =" Aha-Soft-Desktop-Buffet-Steak.256.png " type =" imagem/x-icon " >
+    < title > Restaurante e Padaria - Oliveiras Gourmet 🍽️ </ title >
+    <estilo> _ _
+        corpo {
+            cor de fundo : ganhosboro;
+            família de fontes :  'Times New Roman' , Times ,  'Times New Roman' , Times , serif , Helvetica , sans-serif;
+            tamanho da fonte :  25 px ;
+        }
+        h1 {
+            cor : preto;
+            cor de fundo : cáqui;
+            tamanho da fonte :  27 px ;
+        }
+        h2 {
+            cor :  rgb ( 0 ,  10 ,  209 );
+            tamanho da fonte :  30 px ;
+        }
+        p {
+            alinhamento de texto : justificar;
+            tamanho da fonte :  25 px ;
+        }
+    </ estilo >
+</ cabeça >
+< h1 > Restaurante e Padaria - Oliveiras Gourmet 🍽️ </ h1 >
+< horas >
+< h2 > < u > No Oliveiras Gourmet, você tem a disposição estas opções de refeições para toda sua família se degustar com nosso cardápio.⏱️ </ u > </ h2 >
+< endereço > Endereço :Rua Antonio Menezes n°261 </ endereço >
+<h1> _ _
+    < ol > Segue abaixo nossas oções de pratos principais que são servidos de 11h as 15h </ ol >
+</ h1 >
+<ol> _ _
+    < li >  < forte > Costela com agrião e batatas - R$20,00 塞 </ forte >  < br >
+        < p > < img  src =" costela 2.jpg " alt =" Foto da costela " > </ p >
+    < li >  < forte > Carne assada com salada - R$20,00 綾 </ forte >  < br >
+        < p >  < img  src =" carne assada.jpg " alt =" Carne assada com salada " > < p >
+    < li >  < forte > Macarronada com amêndoas ao molho. - R$30,00 🍝 </ strong >  < br >
+        < p > < img  src =" macarronada com amêndoagas.jpg " alt =" Macarronada " > </ p >
+    < li >  < forte > Bife a rolê com salada de legumes. - R$30,00 🥩 </ strong > < br >
+        < p > < img  src =" Bife a rolê.jpg " alt =" Bife a rolê " > </ p >
+    < li >  < forte > Panqueca à Bolonhesa / Frango / Light. - R$40,00 🥞 </ forte > < br >
+        < p > < img  src =" Panqueca.jpg " alt =" Panqueca " > </ p >
+</ ol >
+
+
+< ul >  < forte > Guarnições - R$5,00 cada. </forte> _ _
+    < li > Arroz </ li >
+    < li > Feijão </ li >
+    < li > Farofa </ li >
+    < li > Legumes cozidos </ li >
+    < li > Fritas </ li >
+</ul> _ _
+</ h2 >
+< h2 > Bebidas: < br > </ h2 >
+< ol >  < li > Coca-Cola lata - R$5,00 🥤 </ i > </ li >
+    < li >  < i > Mate Leão lata - R$5,00 🥃 </ i >
+    < li >  < i > Guaravita - R$ 2,00 🥤 </ i >
+    < li >  < i > H < sup > 2 </ sup > 0 </ i > - R$3,00 🥤 </ ol >
+< p > Segue em anexo vídeo relacionado à qualidade dos nossos pratos < a  href =" https://youtu.be/LeLnlT-ZKw8 target= " rel =" external " > canal gratuito no youtube </ a > </ p >
+</html> _ _
